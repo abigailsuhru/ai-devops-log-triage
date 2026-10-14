@@ -1,0 +1,7 @@
+2026-10-14 10:15:01 INFO  Starting payment-api
+2026-10-14 10:15:02 INFO  Database connection initialized
+2026-10-14 10:15:03 ERROR Database connection failed: connection timed out
+2026-10-14 10:15:03 WARN  Retry attempt 1 of 3
+2026-10-14 10:15:08 ERROR Database connection failed: connection timed out
+2026-10-14 10:15:08 ERROR Request failed: HTTP 500
+2026-10-14 10:15:09 INFO  Health check completed
